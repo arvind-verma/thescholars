@@ -1,0 +1,111 @@
+[09-Dec-2017 05:03:58 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/studyextension/public_html/erp/system/core/Common.php on line 658 and defined in /home/studyextension/public_html/erp/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/studyextension/public_html/erp/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/studyextension/public_html/erp/system/core/Exceptions.php on line 190
+[09-Dec-2017 06:52:39 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/studyextension/public_html/erp/system/core/Common.php on line 658 and defined in /home/studyextension/public_html/erp/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/studyextension/public_html/erp/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/studyextension/public_html/erp/system/core/Exceptions.php on line 190
+[09-Dec-2017 08:54:39 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/studyextension/public_html/erp/system/core/Common.php on line 658 and defined in /home/studyextension/public_html/erp/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/studyextension/public_html/erp/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/studyextension/public_html/erp/system/core/Exceptions.php on line 190
+[13-Dec-2017 08:53:27 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of ParseError given, called in /home/studyextension/public_html/erp/system/core/Common.php on line 658 and defined in /home/studyextension/public_html/erp/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/studyextension/public_html/erp/system/core/Common.php(658): CI_Exceptions->show_exception(Object(ParseError))
+#1 [internal function]: _exception_handler(Object(ParseError))
+#2 {main}
+  thrown in /home/studyextension/public_html/erp/system/core/Exceptions.php on line 190
+[14-Dec-2017 12:35:24 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/studyextension/public_html/erp/system/core/Common.php on line 658 and defined in /home/studyextension/public_html/erp/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/studyextension/public_html/erp/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/studyextension/public_html/erp/system/core/Exceptions.php on line 190
+[14-Dec-2017 12:35:24 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/studyextension/public_html/erp/system/core/Common.php on line 658 and defined in /home/studyextension/public_html/erp/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/studyextension/public_html/erp/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/studyextension/public_html/erp/system/core/Exceptions.php on line 190
+[14-Dec-2017 12:35:57 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/studyextension/public_html/erp/system/core/Common.php on line 658 and defined in /home/studyextension/public_html/erp/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/studyextension/public_html/erp/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/studyextension/public_html/erp/system/core/Exceptions.php on line 190
+[14-Dec-2017 12:36:34 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/studyextension/public_html/erp/system/core/Common.php on line 658 and defined in /home/studyextension/public_html/erp/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/studyextension/public_html/erp/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/studyextension/public_html/erp/system/core/Exceptions.php on line 190
+[14-Dec-2017 12:39:47 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/studyextension/public_html/erp/system/core/Common.php on line 658 and defined in /home/studyextension/public_html/erp/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/studyextension/public_html/erp/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/studyextension/public_html/erp/system/core/Exceptions.php on line 190
+[14-Dec-2017 12:41:09 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/studyextension/public_html/erp/system/core/Common.php on line 658 and defined in /home/studyextension/public_html/erp/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/studyextension/public_html/erp/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/studyextension/public_html/erp/system/core/Exceptions.php on line 190
+[14-Dec-2017 12:42:03 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of ParseError given, called in /home/studyextension/public_html/erp/system/core/Common.php on line 658 and defined in /home/studyextension/public_html/erp/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/studyextension/public_html/erp/system/core/Common.php(658): CI_Exceptions->show_exception(Object(ParseError))
+#1 [internal function]: _exception_handler(Object(ParseError))
+#2 {main}
+  thrown in /home/studyextension/public_html/erp/system/core/Exceptions.php on line 190
+[14-Dec-2017 12:44:00 UTC] PHP Warning:  set_error_handler() expects the argument (_error_handler) to be a valid callback in /home/studyextension/public_html/erp/system/core/CodeIgniter.php on line 135
+[14-Dec-2017 12:44:00 UTC] PHP Warning:  register_shutdown_function(): Invalid shutdown callback '_shutdown_handler' passed in /home/studyextension/public_html/erp/system/core/CodeIgniter.php on line 137
+[14-Dec-2017 12:44:00 UTC] PHP Warning:  Missing argument 2 for _exception_handler() in /home/studyextension/public_html/erp/system/core/Common.php on line 468
+[14-Dec-2017 12:44:00 UTC] PHP Warning:  Missing argument 3 for _exception_handler() in /home/studyextension/public_html/erp/system/core/Common.php on line 468
+[14-Dec-2017 12:44:00 UTC] PHP Warning:  Missing argument 4 for _exception_handler() in /home/studyextension/public_html/erp/system/core/Common.php on line 468
+[14-Dec-2017 12:44:00 UTC] PHP Notice:  Object of class Error could not be converted to int in /home/studyextension/public_html/erp/system/core/Common.php on line 472
+[14-Dec-2017 12:44:00 UTC] PHP Notice:  Object of class Error could not be converted to int in /home/studyextension/public_html/erp/system/core/Common.php on line 481
+[14-Dec-2017 12:44:00 UTC] PHP Notice:  Object of class Error could not be converted to int in /home/studyextension/public_html/erp/system/core/Common.php on line 481
+[14-Dec-2017 12:44:00 UTC] PHP Notice:  Undefined variable: message in /home/studyextension/public_html/erp/system/core/Common.php on line 483
+[14-Dec-2017 12:44:00 UTC] PHP Notice:  Undefined variable: filepath in /home/studyextension/public_html/erp/system/core/Common.php on line 483
+[14-Dec-2017 12:44:00 UTC] PHP Notice:  Undefined variable: line in /home/studyextension/public_html/erp/system/core/Common.php on line 483
+[14-Dec-2017 12:44:00 UTC] PHP Warning:  Illegal offset type in isset or empty in /home/studyextension/public_html/erp/system/core/Exceptions.php on line 245
+[14-Dec-2017 12:44:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_cli() in /home/studyextension/public_html/erp/system/core/Exceptions.php:248
+Stack trace:
+#0 /home/studyextension/public_html/erp/system/core/Common.php(483): CI_Exceptions->show_php_error(Object(Error), NULL, NULL, NULL)
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/studyextension/public_html/erp/system/core/Exceptions.php on line 248
+[14-Dec-2017 12:44:10 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of ParseError given, called in /home/studyextension/public_html/erp/system/core/Common.php on line 658 and defined in /home/studyextension/public_html/erp/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/studyextension/public_html/erp/system/core/Common.php(658): CI_Exceptions->show_exception(Object(ParseError))
+#1 [internal function]: _exception_handler(Object(ParseError))
+#2 {main}
+  thrown in /home/studyextension/public_html/erp/system/core/Exceptions.php on line 190
+[14-Dec-2017 12:44:26 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to CI_Exceptions::show_exception() must be an instance of Exception, instance of Error given, called in /home/studyextension/public_html/erp/system/core/Common.php on line 658 and defined in /home/studyextension/public_html/erp/system/core/Exceptions.php:190
+Stack trace:
+#0 /home/studyextension/public_html/erp/system/core/Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown in /home/studyextension/public_html/erp/system/core/Exceptions.php on line 190
+[14-Dec-2017 12:46:07 UTC] PHP Fatal error:  Call to a member function get_where() on null in /home/studyextension/public_html/erp/application/views/backend/login.php on line 5
+[14-Dec-2017 12:46:29 UTC] PHP Parse error:  syntax error, unexpected '$private' (T_VARIABLE), expecting function (T_FUNCTION) in /home/studyextension/public_html/erp/application/controllers/Login.php on line 8
+[14-Dec-2017 12:46:39 UTC] PHP Fatal error:  Call to a member function get_where() on null in /home/studyextension/public_html/erp/application/views/backend/login.php on line 5
+[14-Dec-2017 12:47:31 UTC] PHP Fatal error:  Call to a member function get_where() on null in /home/studyextension/public_html/erp/application/views/backend/login.php on line 5
+[14-Dec-2017 12:47:33 UTC] PHP Fatal error:  Call to a member function get_where() on null in /home/studyextension/public_html/erp/application/views/backend/login.php on line 5
+[14-Dec-2017 12:49:11 UTC] PHP Fatal error:  Call to a member function get_where() on null in /home/studyextension/public_html/erp/application/views/backend/login.php on line 5
+[06-Jan-2018 09:01:23 UTC] PHP Fatal error:  Call to a member function row_array() on string in /home/studyextension/public_html/erp/application/controllers/Api.php on line 62
+[06-Jan-2018 09:01:35 UTC] PHP Fatal error:  Call to a member function row_array() on string in /home/studyextension/public_html/erp/application/controllers/Api.php on line 62
+[06-Jan-2018 09:27:02 UTC] PHP Fatal error:  Call to a member function row_array() on string in /home/studyextension/public_html/erp/application/controllers/Api.php on line 62
+[10-Jan-2018 14:57:53 UTC] PHP Fatal error:  Call to a member function row_array() on string in /home/studyextension/public_html/erp/application/controllers/Api.php on line 62
+[13-Feb-2018 13:43:31 UTC] PHP Fatal error:  Class 'SimpleXLSX' not found in /home/studyextension/public_html/thescholars/application/controllers/Admin.php on line 45
+[13-Feb-2018 13:45:25 UTC] PHP Fatal error:  Class 'SimpleXLSX' not found in /home/studyextension/public_html/thescholars/application/controllers/Admin.php on line 45
+[15-Feb-2018 05:28:19 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/studyextension/public_html/thescholars/application/views/register.php on line 115
+[16-Feb-2018 08:08:01 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/studyextension/public_html/thescholars/application/views/backend/admin/identity_card.php on line 145
+[16-Feb-2018 08:08:03 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/studyextension/public_html/thescholars/application/views/backend/admin/identity_card.php on line 145
